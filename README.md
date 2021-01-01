@@ -1,4 +1,4 @@
-### Hi there 👋 I am LUCKY KUMARI.
+### Hi there 👋 I am Lucky Kumari.
 
 <!--
 **luckykumarirai/luckykumarirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
