@@ -1,6 +1,28 @@
-### Hi there 👋 I am Lucky Kumari.
+### Hi there 👋  
+I am **Lucky Kumari**,  
 
-## Technical Skills
+Software Engineer with 3+ years’ experience in full-stack web and mobile development, specialize in building scalable healthcare and enterprise solutions using ASP.NET Core, React.js, Next.js, Node.js, and cloud technologies (Azure). My work focuses on delivering measurable impact—I've reduced hospital onboarding time by 80%, improved HL7 test precision by 50%, and engineered automation tools that process 1M+ lab records eliminating manual effort. Beyond my professional work, I'm an active open-source contributor with 30+ pull requests and 20+ features built across 7+ programs. I hold a B.Tech in Computer Science from IIIT Manipur (CGPA: 8.57/10) and am Azure certified.
+
+---
+
+## 🚀 Summary
+
+- 🧠 B.Tech in Computer Science & Engineering from IIIT Senapati, Manipur (Graduated in 2022)
+- 💼 Software Engineer at PROVIDENCE GLOBAL CENTER (Hyderabad)
+- 👨‍💻 Proficient in full-stack development with Asp.NET, React, Next.js, Node.js, TypeScript, MySQL and MongoDB etc
+
+---
+
+## ✉️ Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-luckykumarirai-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luckykumarirai/)](https://www.linkedin.com/in/luckykumarirai/)
+[![Github Badge](https://img.shields.io/badge/-luckykumarirai-black?style=plastic&logo=github&logoColor=white&link=https://github.com/luckykumarirai)](https://github.com/luckykumarirai)
+[![Portfolio Badge](https://img.shields.io/badge/-luckykumari-orange?style=plastic&logo=firefox&logoColor=white&link=https://luckykumari.com/)](https://luckykumari.com/)
+[![Gmail Badge](https://img.shields.io/badge/-luckykumari112000@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:luckykumari112000@gmail.com)](mailto:luckykumari112000@gmail.com)
+
+---
+
+## 🛠️ Technical Skills
 
 <div style="flex">
   <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
@@ -22,22 +44,16 @@
   <img src = "https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white">
   <img src = "https://img.shields.io/badge/-Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white">
   <img src = "https://img.shields.io/badge/-Linux/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
 </div>
 
-</br></br>
-<!--
-**luckykumarirai/luckykumarirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Lucky's github stats](https://github-readme-stats.vercel.app/api?username=luckykumarirai&show_icons=true&theme=radical)](https://github.com/luckykumarirai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckykumarirai&layout=compact&theme=great-gatsby&langs_count=8)](https://github.com/luckykumarirai/github-readme-stats)
